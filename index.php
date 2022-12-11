@@ -244,7 +244,7 @@ include 'constants.php';
     <script src="js/jquery.magnific-popup.min.js" type="text/javascript"></script>
 
     <script type="text/javascript" src="js/SmoothScroll.js"></script>
-Ф
+
     <script src="js/common.js"></script>
 
 </body>
