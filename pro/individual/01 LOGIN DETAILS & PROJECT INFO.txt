@@ -1,5 +1,3 @@
-
-
 **Админ**
 
 Email   : admin@admin.com
@@ -9,4 +7,3 @@ Password: Password@123
 
 Email   : demoaccount@mail.com
 Password: password
-
